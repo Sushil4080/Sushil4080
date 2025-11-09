@@ -77,7 +77,7 @@ Internal TCS telecom workflows automated using Jenkins, Python, Maximo, Bash.
 
 ## 📫 Connect with Me
 
-**LinkedIn:** [https://www.linkedin.com/in/sushil-maurya-devops/](https://www.linkedin.com/in/sushil-maurya-devops/)
+**LinkedIn:** [https://www.linkedin.com/in/sushil-maurya-devops/](www.linkedin.com/in/sushil17)
 
 If you like my work, consider leaving a star on my repositories.
 
