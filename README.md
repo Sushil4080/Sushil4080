@@ -60,10 +60,6 @@ Real-world app with:
 * Nginx reverse proxy
 * CI/CD pipeline behind it
 
-### **3. Telecom DevOps Automation**
-
-Internal TCS telecom workflows automated using Jenkins, Python, Maximo, Bash.
-
 ---
 
 ## 🎯 Career Goals
